@@ -95,7 +95,7 @@ Original design credits belong to the respective designer. This project is an in
 **Ashish Pandit**
 
 - GitHub: https://github.com/AshishPandit05
-- LinkedIn: https://www.linkedin.com/in/ashish-pandit-178160369/
+- LinkedIn: https://www.linkedin.com/in/ashish-pandit05
 
 ---
 
